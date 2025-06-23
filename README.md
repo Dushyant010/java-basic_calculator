@@ -2,7 +2,7 @@
 Internship Task 1: Java calculator using loops, conditionals, and methods.
  
 
-## ✅ Features
+## Features
 - Addition
 - Subtraction
 - Multiplication
@@ -10,7 +10,7 @@ Internship Task 1: Java calculator using loops, conditionals, and methods.
 - User input via Scanner
 - Loop for multiple operations
 
-## 📥 How to Run
+## How to Run
 
 1. Clone or download this repository
 2. Open terminal or command prompt
